@@ -24,5 +24,5 @@ export {
   testimonialOne,
   testimonialTwo,
   quote,
-  contactImg,
+  contactImg
 };
