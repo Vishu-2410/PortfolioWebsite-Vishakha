@@ -12,7 +12,7 @@ const Education = () => {
       {/* part one */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2021 - 2025</p>
+          <p className="text-sm text-designColor tracking-[4px]">2018 - 2025</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
@@ -25,7 +25,7 @@ const Education = () => {
           <ResumeCard
             title="Higher School Education "
             subTitle="St. Joseph's Convent School Khandwa (2020 - 2021)"
-            result="80.1%"
+            result="81.1%"
             des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
           />
           <ResumeCard

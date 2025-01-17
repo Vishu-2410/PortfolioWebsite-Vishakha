@@ -27,7 +27,7 @@ const Projects = () => {
           title="Chatting App"
           des="  A real-time messaging application that facilitates communication between users, offering features like chat rooms and direct messaging."
           src={projectTwo}
-          gitlink="https://github.com/Vishu-2410/Chatting-App"
+          gitlink="https://github.com/Vishu-2410/Chatapp-database"
           livelink="https://chatting-app-1.netlify.app/"
         />
         <ProjectsCard

@@ -4,7 +4,7 @@ import Media from './Media';
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Frontend Developer.", "Full Stack Developer.", "UI Designer."],
+      words: ["Frontend Developer.","Backend Developer.", "Full Stack Developer.","ReactJs Developer.","UI Designer."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -28,12 +28,12 @@ const LeftBanner = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
         <p>
                     I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications.
-                        .I have worked with a vareity of technologies including React,Node.js,MySQL,SQL server,MongoDB,etc..
+                        .I have worked with a vareity of technologies including React, Node.js, MySQL, SQL server, MongoDB, etc..
                     </p>
                     <p>
                     My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where i continously strive to learn
                            and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.
-                             Outside of coding .I enjoy staying active,exploring new technologies,and contributing to open-source projects. 
+                             Outside of coding. I enjoy staying active,exploring new technologies,and contributing to open-source projects. 
                     </p>
         </p>
       </div>

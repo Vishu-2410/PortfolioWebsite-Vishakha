@@ -16,7 +16,13 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
-            title="Programming & Web Development Instructor"
+            title="MERN Stack Intern (Octobar 2024-December 2024)"
+            subTitle="Manasvi Technologies Pvt. Ltd."
+            result="BHOPAL"
+            des=" Contributed to the development of interactive and user-friendly web applications using MERN Stack.Collaborated with the team to implement innovative solutions for real-world projects, enhancing both functionality and user-experience."
+          />
+        <ResumeCard
+            title="Programming & Web Development Instructor (March 2024-September 2024)"
             subTitle="Excel Analytics Computer Traning and Pvt. Ltd."
             result="BHOPAL"
             des=" Led engaging and interactive coding and web development sessions for students.Empowered students through hands-on projects, boosting their practical skills. Delivered personalized mentorship, significantly enhancing student proficiency and enthusiasm for
@@ -32,7 +38,7 @@ coding."
             title="Web Developer & Trainer"
             subTitle="OctaNet Services Pvt Ltd - (2024)"
             result="Remote"
-            des="his experience has been incredibly enriching, offering hands-on opportunities to enhance my skills in HTML, CSS, and web development. Throughout the internship, I worked on various projects, which honed my technical and creative abilities."
+            des="This experience has been incredibly enriching, offering hands-on opportunities to enhance my skills in HTML, CSS, and web development. Throughout the internship, I worked on various projects, which honed my technical and creative abilities."
           />
         </div>
       </div>

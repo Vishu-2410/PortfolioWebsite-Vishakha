@@ -1,6 +1,6 @@
 import { AiFillAppstore } from "react-icons/ai";
 import { FaMobile, FaGlobe} from "react-icons/fa";
-import { SiProgress, SiAntdesign } from "react-icons/si";
+import {SiAntdesign } from "react-icons/si";
 
 // Features Data
 export const featuresData = [
@@ -17,14 +17,13 @@ export const featuresData = [
   },
   {
     id: 3,
-    icon: <SiProgress />,
-    title: "SEO Optimisation",
-    des: "Enhances website visibility and ranking on search engines by optimizing content and technical aspects.",
+    title: "Backend Development",
+    des: "Involves the creation and maintenance of websites, covering back-end development.",
   },
   {
     id: 4,
     icon: <FaMobile />,
-    title: "Mobile Development",
+    title: "Mobile Responsive Websites",
     des: " Specializes in building applications for mobile devices, ensuring usability across smartphones and tablets.",
   },
   {
